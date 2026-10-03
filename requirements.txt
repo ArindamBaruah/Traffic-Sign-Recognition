@@ -1,0 +1,16 @@
+imblearn
+jupyter
+matplotlib
+nbconvert
+numpy
+opencv-python
+pandas
+pillow
+pytorch
+requests_html
+scikit-learn
+sympy
+tensorflow
+torch
+torchvision
+yahoo_fin
